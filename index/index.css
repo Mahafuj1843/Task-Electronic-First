@@ -1,0 +1,29 @@
+.hero .container {
+  width: 1250px;
+}
+.hero .container .navber {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.hero .container .navber .logo {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 10px 0;
+}
+.hero .container .navber .info {
+  position: absolute;
+  top: 0;
+  font-size: 10px;
+  font-weight: 500;
+}
+.hero .container .navber ul li {
+  font-size: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-left: 30px;
+}/*# sourceMappingURL=index.css.map */
